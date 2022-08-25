@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'sometimes';
+  src: url('https://raw.githubusercontent.com/timothykmasek/1800d2c-fonts/blob/main/Sometimes%20Times%20Italic.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'playtype';
+  src: url('https://raw.githubusercontent.com/timothykmasek/1800d2c-fonts/blob/main/Studio6-Regular.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
